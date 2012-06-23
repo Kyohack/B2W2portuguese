@@ -1,53 +1,53 @@
-ＨＰ／ＰＰ
-かいふく
-じょうたい
-かいふく
-ＨＰ／ＰＰ
-かいふく
-せんとうよう
-ボール
-さいごにつかったどうぐ
-\xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-\xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-\xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-\xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-\xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-\xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-つぎへ
-ＨＰ／ＰＰ
-かいふく
-じょうたい
-かいふく
-ボール
-せんとうよう
-／
-\xf000Ȁ\x0001\x0000
-\xf000Ȁ\x0001\x0000
-つかう
-\xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-つかっても　こうかが　ないよ
-しろいきりに　つつまれた！\xfffe
-\xf000Ă\x0001\x0000は\xfffeはりきっている
-\xf000Ă\x0001\x0000の\xfffeこうげきが　あがった！
-\xf000Ă\x0001\x0000の\xfffeとくこうが　あがった！
-\xf000Ă\x0001\x0000の\xfffeすばやさが　あがった！
-\xf000Ă\x0001\x0000の\xfffeとくぼうが　あがった！
-\xf000Ă\x0001\x0000の\xfffeぼうぎょが　あがった！
-\xf000Ă\x0001\x0000の\xfffeめいちゅうりつが　あがった！
-\xf000ĉ\x0001\x0000を\xfffeつかった！
-だめだ！　２ひきいて\xfffeねらいが　さだまらない……！
-ボックスが　いっぱいです！
-\xf000ć\x0001\x0001の　こうかで\xfffe\xf000Ă\x0001\x0000には　つかえません！
-だめだ！　ポケモンが　みえなくて\xfffeねらいが　さだまらない……！
-だめだ！　ポケモンが　みえなくて\xfffeねらいが　さだまらない……！
-エネルギーが　たりません
-アララギの　ことば……\xfffeこういう　ものには\xf000븀\x0000\xfffeつかいどきが　あるのよ
-しゅうちゅう　しないと\xfffeボールは　じょうずに　なげられない！
+HP/PP
+Restaurar
+Estado
+Curandeiro
+HP/PP
+Restaurar
+Itens de batalha
+Pokebolas
+Último item usado
+\xf000c\x0001\x0000
+×\xf000?\x0001\x0000
+\xf000c\x0001\x0000
+×\xf000?\x0001\x0000
+\xf000c\x0001\x0000
+×\xf000?\x0001\x0000
+\xf000c\x0001\x0000
+×\xf000?\x0001\x0000
+\xf000c\x0001\x0000
+×\xf000?\x0001\x0000
+\xf000c\x0001\x0000
+×\xf000?\x0001\x0000
+Próximo
+HP/PP
+Restaurar
+Estado
+Curandeiro
+Pokébolas
+Itens de batalha
+/
+\xf000?\x0001\x0000
+\xf000?\x0001\x0000
+Usar
+\xf000c\x0001\x0000
+×\xf000?\x0001\x0000
+Não vai fazer nada para usar isso!
+Ele foi envolvido em uma névoa branca!\xfffe
+\xf000A\x0001\x0000?\xfffeestá ficando forte!
+\xf000A\x0001\x0000?\xfffeaumentou o Ataque!
+\xf000A\x0001\x0000?\xfffeaumentou o Ataque Especial!
+\xf000A\x0001\x0000?\xfffeaumentou a Velocidade!
+\xf000A\x0001\x0000?\xfffeaumentou a Defesa Especial!
+\xf000A\x0001\x0000?\xfffeaumentou a Defesa!
+\xf000A\x0001\x0000?\xfffeaumentou a precisão!
+\xf000c\x0001\x0000?\xfffefoi usado!
+Não! 2 pokemon\xfffemake it impossible to aim...!
+Não há espaço no PC!
+\xf000c\x0001\x0001 efeito impede o uso do item\xfffe\xf000A\x0001\x0000!
+Isso não é bom! É impossível tentar obter um Pokémon que não está à vista!
+Isso não é bom! É impossível tentar obter um Pokémon que não está à vista!
+Sem energia
+Araragi's disse\xfffe\xf000?\x0000! Existe um tempo e lugar para tudo! Mas não agora.
+Você não pode jogar a bola\xfffesem se concentrar!
 ゲーチスの　つくった　そうちのせいで\xfffeボールは　つかえない！！
