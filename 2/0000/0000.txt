@@ -1,146 +1,146 @@
-むかいとう
-ブラック２
-ホワイト２
-おとこ
-おんな
-たいせん
-こうかん
-とかい
-いなか
-あたまがいい
-うんどうできる
-じかん
-おかね
-がいけん
-なかみ
-かっこいい
-かわいい
-へんな
-ポカブ
-ミジュマル
-ツタージャ
-きょうそう
-きょうりょく
-ー
-かこにいく
-みらいにいく
-ひつようない
-かぞく
-ともだち
-じぶん
-かっこいいひと
-かしこいひと
-おもしろいひと
-ふしぎなひと
-ゆめをおう
-げんじつをみる
-ー
-ー
-おもしろい
-かっこいい
-やさしい
-おかねもち
-たたかい
-あつめる
-おはなし
-ポケモン
-そらをとぶ
-とうめいになる
-じかんをとめる
-こころをよむ
-つかう
-ためる
-じまんする
-きふする
-０ー５ねん
-５ー１０ねん
-１０ー１５ねん
-１５ねんー
-そとであそぶ
-かいもの
-どくしょ
-ゲーム
-ねてる
-ポップス
-ロック
-ジャズ
-ラップ
-クラシック
-ニュース
-ドラマ
-おわらい
-スポーツ
-アニメ
-アクション
-SF
-れんあい
-サスペンス
-コメディ
-ホラー
-アクション
-パズル
-ＲＰＧ
-アドベンチャー
-シミュレーション
-スポーツ
-しごと
-ひとづきあい
-しゅみ
-けんこう
-えらくなる
-ー
-うんどう
-どくしょ
-おんがく
-えいが
-りょこう
-りょうり
-つり
-ゲーム
-がくせい
-サラリーマン
-クリエーター
-じえいぎょう
-こうむいん
-しゅふ
-げいじゅつか
-フリーター
-チェレン
-ホミカ
-アーティ
-カミツレ
-ヤーコン
-フウロ
-シャガ
-シズイ
-ー
-ー
-ー
-ノーマル
-ほのお
-みず
-でんき
-くさ
-こおり
-かくとう
-どく
-じめん
-ひこう
-エスパー
-むし
-いわ
-ゴースト
-ドラゴン
-あく
-はがね
-０ー１０じかん
-１０ー２０じかん
-２０ー３０じかん
-３０ー４０じかん
-４０ー５０じかん
-５０ー６０じかん
-６０ー７０じかん
-７０ー８０じかん
-８０ー９０じかん
-９０ー１００じかん
-１００じかんー
+Não Responder
+Black2
+White2
+Garoto
+Garota
+Batalha
+Troca
+A Cidade
+O País
+Inteligente
+Atlético
+Tempo
+Dinheiro
+Aparência
+Substância
+Legal
+Bonito
+Estranho
+Tepig
+Oshawott
+Snivy
+A Praia
+O Rio
+As Montanhas
+Classes
+Quebrar
+Lanche
+Família
+Amigos
+Eu
+Primavera
+Verão
+Outono
+Inverno
+Doce
+Picante
+Azedo
+Amargo
+Diversão
+Legal
+Tipo
+Rico
+Batalhas
+Coleta
+A História
+Pokémon
+Inglês
+Matemática
+Ciências
+Estudos Sociais
+Inglês
+Matemática
+Ciências
+Estudos Sociais
+Treinador
+Professora
+Equipe Plasma
+Pokémon
+Jogar Fora
+Shopping
+Lendo
+Video Games
+Dormir até Tarde
+Pop
+Rock
+Jazz
+Rap
+Classical
+Notícias
+Drama
+Comédia
+Esportes
+Desenhos
+Ação
+Sci-Fi
+Romance
+Suspense
+Comédia
+Horror
+Baseball
+Futebol
+Basquete
+Football
+Hockey
+Artes Marciais
+Vermelho
+Verde
+Azul
+Amarelo
+Branco
+Preto
+Exercitar
+Leitura
+Musica
+Filmes
+Viajar
+Cozinhar
+Pescar
+Video Games
+Estudante
+Secretário
+Criador
+Autônomo
+Funcionário Público
+Dona de Casa
+Artista
+Job-Hopper
+Chili
+Cilan
+Cress
+Lenora
+Burgh
+Elesa
+Clay
+Skyla
+Brycen
+Iris
+Drayden
+Normal
+Fire
+Water
+Electric
+Grass
+Ice
+Fighting
+Poison
+Ground
+Flying
+Psychic
+Bug
+Rock
+Ghost
+Dragon
+Dark
+Steel
+0-10 Horas
+10-20 Horas
+20-30 Horas
+30-40 Horas
+40-50 Horas
+50-60 Horas
+60-70 Horas
+70-80 Horas
+80-90 Horas
+90-100 Horas
+100+ Horas
