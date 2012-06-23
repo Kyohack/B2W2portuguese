@@ -1,146 +1,146 @@
-むかいとう
-ブラック２
-ホワイト２
-おとこ
-おんな
-たいせん
-こうかん
-とかい
-いなか
-あたまがいい
-うんどうできる
-じかん
-おかね
-がいけん
-なかみ
-かっこいい
-かわいい
-へんな
-ポカブ
-ミジュマル
-ツタージャ
-きょうそう
-きょうりょく
-ー
-かこにいく
-みらいにいく
-ひつようない
-かぞく
-ともだち
-じぶん
-かっこいいひと
-かしこいひと
-おもしろいひと
-ふしぎなひと
-ゆめをおう
-げんじつをみる
-ー
-ー
-おもしろい
-かっこいい
-やさしい
-おかねもち
-たたかい
-あつめる
-おはなし
-ポケモン
-そらをとぶ
-とうめいになる
-じかんをとめる
-こころをよむ
-つかう
-ためる
-じまんする
-きふする
-０ー５ねん
-５ー１０ねん
-１０ー１５ねん
-１５ねんー
-そとであそぶ
-かいもの
-どくしょ
-ゲーム
-ねてる
-ポップス
-ロック
-ジャズ
-ラップ
-クラシック
-ニュース
-ドラマ
-おわらい
-スポーツ
-アニメ
-アクション
-SF
-れんあい
-サスペンス
-コメディ
-ホラー
-アクション
-パズル
-ＲＰＧ
-アドベンチャー
-シミュレーション
-スポーツ
-しごと
-ひとづきあい
-しゅみ
-けんこう
-えらくなる
-ー
-うんどう
-どくしょ
-おんがく
-えいが
-りょこう
-りょうり
-つり
-ゲーム
-がくせい
-サラリーマン
-クリエーター
-じえいぎょう
-こうむいん
-しゅふ
-げいじゅつか
-フリーター
-チェレン
-ホミカ
-アーティ
-カミツレ
-ヤーコン
-フウロ
-シャガ
-シズイ
-ー
-ー
-ー
-ノーマル
-ほのお
-みず
-でんき
-くさ
-こおり
-かくとう
-どく
-じめん
-ひこう
-エスパー
-むし
-いわ
-ゴースト
-ドラゴン
-あく
-はがね
-０ー１０じかん
-１０ー２０じかん
-２０ー３０じかん
-３０ー４０じかん
-４０ー５０じかん
-５０ー６０じかん
-６０ー７０じかん
-７０ー８０じかん
-８０ー９０じかん
-９０ー１００じかん
-１００じかんー
+Sem Resposta
+Preto2
+Branco2
+Rapaz
+Rapariga
+Batalha
+Troca
+A Cidade
+o País
+Inteligente
+Atlético
+Hora
+Dinheiro
+Aparência
+Substância
+Legal
+Bonitinho
+Estranho
+Tepig
+Oshawott
+Snivy
+Uma Praia
+Um Rio
+As montanhas
+Aulas
+Pausas
+Almoço
+Família
+Amigos
+Eu
+Primaveira
+Verão
+Outono
+Inverno
+Doce
+Picante
+Azedo
+Amargo
+Diversão
+Legal
+Tipo
+Rico
+Batalhas
+Coleta
+A História
+Pokémon
+Voando no Céu
+Matemática
+Ciência
+Estudos Sociais
+Usar
+Matemática
+Ciência
+Estudos Sociais
+Treinador
+Professor
+Equipe Plasma
+Pokémon
+Jogar Fora
+Compras
+Leitura
+Video Games
+Dormir até tarde
+Pop
+Rock
+Jazz
+Rap
+Clássico
+Notícia
+Drama
+Comédia
+Esportes
+Desenhos Animados
+Ação
+Ficção Científica
+Romance
+Suspense
+Comédia
+Horror
+Beisebol
+Futebol
+Basquetebol
+Futebol
+Hóquei
+Artes Marciais
+Vermelho
+Verde
+Azul
+Amarelo
+Branco
+Preto
+Exercitar
+Leitura
+Música
+Filmes
+Viagens
+Cozinhar
+Pesca
+Jogos de vídeo
+Estudante
+Trabalhador de escritório
+Criador
+Trabalhador por conta própria
+Funcionário Público
+Dona de casa
+Artista
+Adolescente
+Chili
+Cilan
+Cress
+Lenora
+Nurgh
+Elesa
+Clay
+Skyla
+Brycen
+Iris
+Dryaden
+Normal
+Fogo
+Água
+Elétrico
+Planta
+Gelo
+Lutador
+Venenoso
+Terra
+Voador
+Psíquico
+Inseto
+Rocha
+Fantasma
+Dragão
+Noturno
+Metálico
+0-10 Horas
+10-20 Horas
+20-30 Horas
+30-40 Horas
+40-50 Horas
+50-60 Horas
+60-70 Horas
+70-80 Horas
+80-90 Horas
+90-100 Horas
+100+ Horas
