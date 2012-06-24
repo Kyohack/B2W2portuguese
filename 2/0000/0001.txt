@@ -1,12 +1,12 @@
 ＨＰ／ＰＰ
-かいふく
-じょうたい
-かいふく
+Restaurar
+Status
+Curador
 ＨＰ／ＰＰ
-かいふく
-せんとうよう
-ボール
-さいごにつかったどうぐ
+Restaurar
+Itens de Batalha
+Pokebolas
+Item usados anteriomente
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
@@ -19,35 +19,35 @@
 ×\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-つぎへ
+Proximo
 ＨＰ／ＰＰ
-かいふく
-じょうたい
-かいふく
-ボール
-せんとうよう
+Restaurar
+Status
+Curador
+Pokebolas
+Itens de batalha
 ／
 \xf000Ȁ\x0001\x0000
 \xf000Ȁ\x0001\x0000
-つかう
+Usar
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-つかっても　こうかが　ないよ
-しろいきりに　つつまれた！\xfffe
-\xf000Ă\x0001\x0000は\xfffeはりきっている
-\xf000Ă\x0001\x0000の\xfffeこうげきが　あがった！
-\xf000Ă\x0001\x0000の\xfffeとくこうが　あがった！
-\xf000Ă\x0001\x0000の\xfffeすばやさが　あがった！
-\xf000Ă\x0001\x0000の\xfffeとくぼうが　あがった！
-\xf000Ă\x0001\x0000の\xfffeぼうぎょが　あがった！
-\xf000Ă\x0001\x0000の\xfffeめいちゅうりつが　あがった！
-\xf000ĉ\x0001\x0000を\xfffeつかった！
-だめだ！　２ひきいて\xfffeねらいが　さだまらない……！
-ボックスが　いっぱいです！
-\xf000ć\x0001\x0001の　こうかで\xfffe\xf000Ă\x0001\x0000には　つかえません！
-だめだ！　ポケモンが　みえなくて\xfffeねらいが　さだまらない……！
-だめだ！　ポケモンが　みえなくて\xfffeねらいが　さだまらない……！
-エネルギーが　たりません
-アララギの　ことば……\xfffeこういう　ものには\xf000븀\x0000\xfffeつかいどきが　あるのよ
-しゅうちゅう　しないと\xfffeボールは　じょうずに　なげられない！
-ゲーチスの　つくった　そうちのせいで\xfffeボールは　つかえない！！
+Não fará bem algum usar isso!
+ele foi envolvido por névoa！\xfffe
+\xf000Ă\x0001\x0000は\xfffeis getting pumped!
+\xf000Ă\x0001\x0000の\xfffeAtaque aumentou!
+\xf000Ă\x0001\x0000の\xfffeAtaque especial aumentou!
+\xf000Ă\x0001\x0000の\xfffeVelocidade aumentou!
+\xf000Ă\x0001\x0000の\xfffeDefesa especial aumentou!
+\xf000Ă\x0001\x0000の\xfffeDefesa aumentou!
+\xf000Ă\x0001\x0000の\xfffePrecisão aumentou!
+\xf000ĉ\x0001\x0000を\xfffeFoi usado!
+Não! 2 pokemons\xfffeFicou imposivel apontar!
+Não há espaço no computador!
+\xf000ć\x0001\x0001 o efeito impede o uso do item em \xfffe\xf000Ă\x0001\x0000!
+Isso não é bom! É impossivel ver um Pokémon que nao esta à vista!
+Isso não é bom! É impossivel ver um Pokémon que nao esta à vista!
+Não há energia suficiente
+Palavras de Araragi ecoaram...!\xfffe\xf000?\x0000\xfffeHá um tempo e lugar para tudo!Mas não agora.
+Você não pode jogar a bola\xfffeA pokebola foi jogada sem concentração!
+A Pokebola não pode ser usada por causa do dispositivo usado por Ghetsis! !
