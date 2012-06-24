@@ -4,11 +4,11 @@
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
-ポケモンを　えらんでください
-どの　ポケモンに　つかう？
-どれと　いれかえる？
-どの　ポケモンで　たたかう？
-どの　ポケモンを　もどす？
+Escola um Pokémon.
+Usar em qual Pokémon?
+Substituir qual?
+lutar usando qual Pokémon?
+Substituir qual Pokémon?
 L\xf000Ȃ\x0001\x0000
 /
 \xf000Ȃ\x0001\x0000
@@ -18,57 +18,57 @@ L\xf000Ȃ\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
-ＰＰ
-いれかえる
+PP
+TROCAR
 ♂
 ♀
-つよさをみる
-わざをみる
-たたかえない
-せんとうちゅう
-たいきちゅう
-パートナー
-もちものなし
+SUMÁRIO
+VER MOVES
+NÃO PODE LUTAR
+NA LUTA
+PARADO
+PARCEIRO
+Sem item
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
-Ｌｖ．
+Lv.
 \xf000Ȃ\x0001\x0000
-つぎのレベルまで
+PRÓXIMO LV
 \xf000ȅ\x0001\x0000
 \xf000Ć\x0001\x0000
-ＨＰ
+HP
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
 ／
-こうげき
+ATAQUE
 \xf000Ȃ\x0001\x0000
-ぼうぎょ
+DEFESA
 \xf000Ȃ\x0001\x0000
-とくこう
+ATK. SP
 \xf000Ȃ\x0001\x0000
-とくぼう
+DEF. SP
 \xf000Ȃ\x0001\x0000
-すばやさ
+VELO.
 \xf000Ȃ\x0001\x0000
 \xf000ć\x0001\x0000
-ＰＰ
+PP
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
 ／
 ――
-いりょく
+PODER
 \xf000Ȃ\x0001\x0000
 ―
-めいちゅう
+PRECISÃO
 \xf000Ȃ\x0001\x0000
-ぶんるい
-ぶつり
-へんか
-とくしゅ
-アピールポイント
-わすれさせる
-やめる
-たいせつな　わざです！\xfffeわすれることは　できません！
+CATEGORIA
+FÍSICO
+STATUS
+ESPECIAL
+PONTO(S) DE APELO
+ESQUECER
+CANCELAR
+Ataques HM não podem ser\xfffeesquecidos.
 \xf000ć\x0001\x0000
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
@@ -84,25 +84,25 @@ L\xf000Ȃ\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
-\xf000Ă\x0001\x0000は\xfffeすでに　せんとうに　でています
-\xf000Ă\x0001\x0000は　たたかうための\xfffeげんきが　のこっていません！
-\xf000Ă\x0001\x0000を\xfffeもどすことが　できない！
-タマゴを\xfffeせんとうに　だすことは　できません
-パートナーの　ポケモンを\xfffeえらぶことは　できません！
-つかっても　こうかが　ないよ
-\xf000Ă\x0001\x0000の　たいりょくが\xfffe\xf000Ȃ\x0001\x0001　かいふくした！
-\xf000Ă\x0001\x0000の　どくは\xfffeきれい　さっぱり　なくなった！
-\xf000Ă\x0001\x0000の\xfffeからだの　しびれが　とれた！
-\xf000Ă\x0001\x0000の\xfffeやけどが　なおった！
-\xf000Ă\x0001\x0000の\xfffeからだの　こおりが　とけた！
-わざポイントが　かいふくした！　
-\xf000Ă\x0001\x0000は\xfffeげんきを　とりもどした！
-\xf000Ă\x0001\x0000は\xfffeけんこうに　なった！
-\xf000Ă\x0001\x0000の\xfffeこんらんが　とけた！
-\xf000Ă\x0001\x0000の\xfffeメロメロが　とけた！
-\xf000Ă\x0001\x0000は\xfffeめを　さました！
-\xf000Ă\x0001\x0000は　すでに\xfffeせんたく　されています
-どの　わざを　かいふくする？
-\xf000ć\x0001\x0001の　こうかで\xfffe\xf000Ă\x0001\x0000には　つかえません！
-\xf000Ă\x0001\x0000は\xfffeもどすことが　できません！
-\xf000Ă\x0001\x0000は\xfffeすでに　もどっています
+\xf000Ă\x0001\x0000 \xfffejá está na luta!
+\xf000Ă\x0001\x0000 não tem energia para lutar!
+\xf000Ă\x0001\x0000 \xfffenão pode ser substituído!
+Um Ovo não pode lutar!
+Você não pode substituir um Pokémon do seu parceiro com um seu!
+Não terá efeito algum.
+HP de \xf000Ă\x0001\x0000 restaurado em\xfffe\xf000Ȃ\x0001\x0001 pontos!
+\xf000Ă\x0001\x0000 foi curado de seu\xfffeenvenenamento.
+\xf000Ă\x0001\x0000 foi curado de sua\xfffeparalisia.
+Queimadura de \xf000Ă\x0001\x0000foi curada.
+\xf000Ă\x0001\x0000\xfffefoi descongelado.
+PP foi restaurado.　
+\xf000Ă\x0001\x0000 \xffferecuperou-se do desmaio!
+\xf000Ă\x0001\x0000 \xfffeficou saudável.
+\xf000Ă\x0001\x0000 \xfffesaiu de sua confusão.
+\xf000Ă\x0001\x0000 \xfffesuperou sua paixão.
+\xf000Ă\x0001\x0000 \xfffeacordou.
+\xf000Ă\x0001\x0000 já foi\xfffeselecionado.
+Restaurar qual movimento?
+Os　efeitos de \xf000ć\x0001\x0001 previnem o uso do item em\xfffe\xf000Ă\x0001\x0000!
+\xf000Ă\x0001\x0000 não pode ser substituido\xfffeout!
+\xf000Ă\x0001\x0000 já está substituído\xfffeout.
