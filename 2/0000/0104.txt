@@ -1,7 +1,7 @@
-てもち
-バトルボックス
-やめる
-てもちか　バトルボックスの\xfffeどちらを　つかうか　えらんでください
+Na Equipe
+Caixa de Batalha
+Cancelar
+Escolha se deseja usar sua equipe\xfffeou a sua Caixa de Batalha.
 L\xf000Ȃ\x0001\x0000
 \xf000\xff00\x0001\x0002♂\xf000\xff00\x0001\x0000
 \xf000\xff00\x0001\x0001♀\xf000\xff00\x0001\x0000
