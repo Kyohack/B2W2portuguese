@@ -1,56 +1,56 @@
-いまの　しょうぶを\xfffeバトルビデオに　きろく　しますか？
-はい
-いいえ
-いまの　しょうぶの　きろくは\xfffeのこりませんが　よろしいですか？
-はい
-いいえ
-ぜんかいの　バトルビデオを　けして\xfffeうわがき　しても　よろしいですか？
-はい
-いいえ
-バトルビデオに　きろくちゅう　です！\xfffeでんげんを　きらないでください
-たたかいが　きろく　されました！
-ふぐあいにより\xfffeきろく　できませんでした
-あいてを　まっています\xfffeしばらく　おまち　ください！
-この　あいてとは　ろくが　できません\xfffeしばらく　おまち　ください！
-この　あいてとは　ろくが　できません
-この　しょうぶは　ろくが　できません
-ＳＥＬＥＣＴ　ＴＩＭＥ
+Gostaria de salvar a última batalha como \xffeseu Battle Video?
+Sim
+Não
+A última batalha não será salva.\xfffeOK?
+Sim
+Não
+Substituir seu Battle Video existente?
+Sim
+Não
+Salvando seu Battle Video...\xfffeNão desligue.
+Seu Battle Video foi salvo.
+Houve um erro.\xfffeO Battle Video não pôde ser salvo.
+Aguardando a decisão de seu amigo...\xfffeAguarde.
+Você não pode gravar vídeos\xfffecom este Treinador... Aguarde.
+Você não pode gravar vídeos com este Treinador.
+A última batalha não pôde ser gravada.
+Limite de Tempo:
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
-ぜんかいの　きろく
-コロシアム　シングル\xfffeせいげんなし
-コロシアム　シングル\xfffeフラット
-コロシアム　シングル\xfffeせいげんなし シューターあり
-コロシアム　シングル\xfffeフラット　シューターあり
-コロシアム　ダブル\xfffeせいげんなし
-コロシアム　ダブル\xfffeフラット
-コロシアム　ダブル\xfffeせいげんなし シューターあり
-コロシアム　ダブル\xfffeフラット　シューターあり
-コロシアム　トリプル\xfffeせいげんなし
-コロシアム　トリプル\xfffeフラット
-コロシアム　トリプル\xfffeせいげんなし シューターあり
-コロシアム　トリプル\xfffeフラット　シューターあり
-コロシアム　ローテーション\xfffeせいげんなし
-コロシアム　ローテーション\xfffeフラット
-コロシアム　ローテーション\xfffeせいげんなし シューターあり
-コロシアム　ローテーション\xfffeフラット　シューターあり
-コロシアム　マルチ\xfffeせいげんなし
-コロシアム　マルチ\xfffeフラット
-コロシアム　マルチ\xfffeせいげんなし シューターあり
-コロシアム　マルチ\xfffeフラット　シューターあり
-バトルサブウェイ\xfffeシングル
-バトルサブウェイ\xfffeダブル
-バトルサブウェイ\xfffeマルチ
-ランダムマッチ　フリー\xfffeシングル
-ランダムマッチ　フリー\xfffeダブル
-ランダムマッチ　フリー\xfffeトリプル
-ランダムマッチ　フリー\xfffeローテーション
-ランダムマッチ　フリー\xfffeシューターバトル
-ランダムマッチ　レーティング\xfffeシングル
-ランダムマッチ　レーティング\xfffeダブル
-ランダムマッチ　レーティング\xfffeトリプル
-ランダムマッチ　レーティング\xfffeローテーション
-ランダムマッチ　レーティング\xfffeシューターバトル
+ÚLTIMA GRAVAÇÃO:
+Colosseum Sozinho,\xfffeSem Restrições
+Colosseum Sozinho,\xfffeLiso
+Colosseum Sozinho,\xfffeSem Restrições, Lançador Ativado
+Colosseum Sozinho,\xfffeLiso, Lançador Ativado
+Colosseum Dupla,\xfffeSem Restrições
+Colosseum Dupla,\xfffeLiso
+Colosseum Dupla,\xfffeSem Restrições, Lançador Ativado
+Colosseum Dupla,\xfffeLiso, Lançador Ativado
+Colosseum Trio,\xfffeSem Restrições
+Colosseum Trio,\xfffeLiso
+Colosseum Trio,\xfffeSem Restrições, Lançador Ativado
+Colosseum Trio,\xfffeLiso, Lançador Ativado
+Colosseum Rotativo,\xfffeSem Restrições
+Colosseum Rotativo,\xfffeLiso
+Colosseum Rotativo,\xfffeSem Restrições, Lançador Ativado
+Colosseum Rotativo,\xfffeLiso, Lançador Ativado
+Colosseum Multi,\xfffeSem Restrições
+Colosseum Multi,\xfffeLiso
+Colosseum Multi,\xfffeSem Restrições, Lançador Ativado
+Colosseum Multi,\xfffeLiso, Lançador Ativado
+Metrô de Batalha,\xfffeSozinho
+Metrô de Batalha,\xfffeDupla
+Metrô de Batalha,\xfffeMulti
+Partida Aleatória, Livre\xfffeSozinho
+Partida Aleatória, Livre\xfffeDupla
+Partida Aleatória, Livre\xfffeTrio
+Partida Aleatória, Livre\xfffeRotativo
+Partida Aleatória, Livre\xfffeBatalha de Lançador
+Partida Aleatória, Rating\xfffeSozinho
+Partida Aleatória, Ratin\xfffeDupla
+Partida Aleatória, Rating\xfffeTrio
+Partida Aleatória, Rating\xfffeRotativo
+Partida Aleatória, Rating\xfffeBatalha de Lançador
 たいかい　シングル\xfffeシューターなし
 たいかい　シングル\xfffeシューターあり
 たいかい　ダブル\xfffeシューターなし
