@@ -1,2 +1,2 @@
-つうしんエラーが　はっせいしました
-つうしんエラーが　はっせいしました\xfffeでんげんを　きってください
+Erro de comunicação.
+Erro de comunicação.\xfffeDesligue o console.
