@@ -4,11 +4,11 @@
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
-ポケモンを　えらんでください
-どの　ポケモンに　つかう？
-どれと　いれかえる？
-どの　ポケモンで　たたかう？
-どの　ポケモンを　もどす？
+Escolha um Pokemon
+usar esse pokemon？
+trocar com outro？
+batalhar usando outro pokemon？
+Trocar esse pokemon？
 L\xf000Ȃ\x0001\x0000
 /
 \xf000Ȃ\x0001\x0000
@@ -19,13 +19,13 @@ L\xf000Ȃ\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
 ＰＰ
-いれかえる
+trocar
 ♂
 ♀
-つよさをみる
-わざをみる
-たたかえない
-せんとうちゅう
+sumario
+ver moves
+nao batalha
+em batalha
 たいきちゅう
 パートナー
 もちものなし
@@ -87,9 +87,9 @@ L\xf000Ȃ\x0001\x0000
 \xf000Ă\x0001\x0000は\xfffeすでに　せんとうに　でています
 \xf000Ă\x0001\x0000は　たたかうための\xfffeげんきが　のこっていません！
 \xf000Ă\x0001\x0000を\xfffeもどすことが　できない！
-タマゴを\xfffeせんとうに　だすことは　できません
+ovo\xfffenao pode batalhar
 パートナーの　ポケモンを\xfffeえらぶことは　できません！
-つかっても　こうかが　ないよ
+nao houve nemnhum efeito
 \xf000Ă\x0001\x0000の　たいりょくが\xfffe\xf000Ȃ\x0001\x0001　かいふくした！
 \xf000Ă\x0001\x0000の　どくは\xfffeきれい　さっぱり　なくなった！
 \xf000Ă\x0001\x0000の\xfffeからだの　しびれが　とれた！
