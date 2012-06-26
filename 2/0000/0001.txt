@@ -1,8 +1,8 @@
-HP/PP
+ＨＰ／ＰＰ
 Restaurar
 Status
 Curas
-HP/PP
+ＨＰ／ＰＰ
 Restaurar
 Itens de Batalha
 Pokébolas
@@ -33,7 +33,7 @@ Usar
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 Isso não fará nenhum bem!
-Estava embrulhado em uma neblina branca!\xfffe
+Estava envolto em uma neblina branca!\xfffe
 \xf000Ă\x0001\x0000 \xfffeestá ficando malhado!
 \xf000Ă\x0001\x0000 \xfffeaumentou o Ataque!
 \xf000Ă\x0001\x0000 \xfffeaumentou o Ataque Especial!
@@ -50,4 +50,4 @@ Não vai dar! É impossível mirar em um Pokémon fora de vista!
 Energia insuficiente
 As palavras de Araragi ecoam...\xfffe\xf000?\x0000! Há hora para tudo! Agora não.
 Você não pode jogar a bola\xfffesem se concentrar!
-A bola não pode ser usada por causa do dispositivo que Ghetsis usou!
+A bola não pode ser usada \xfffepor causa do dispositivo que Ghetsis usou!
