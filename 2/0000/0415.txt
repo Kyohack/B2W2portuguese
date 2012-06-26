@@ -94,8 +94,8 @@ Localização do OT
 SUMÁRIO
 TROCAR
 CANCELAR
-はい
-いいえ
+SIM
+NÃO
 NA EQUIPE
 なまえ
 ポケモンを　あずける
