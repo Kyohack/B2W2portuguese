@@ -1,25 +1,25 @@
-ゲームで　つかう　もじは\xfffeひらがな・カタカナに　しますか？\xf000븀\x0000\xfffeそれとも　漢字に　しますか？\xf000븁\x0000
-かな
-漢字
-それでは　ゲームで　つかう　もじは\xfffeひらがな・カタカナに　します\xf000븁\x0000
-それでは　ゲームでは\xfffe漢字も　使います\xf000븁\x0000
-セーブデータを　さくせい　しています\xfffeしばらく　おまちください
-ハーイ！\xf000븁\x0000\xfffeポケットモンスターの　せかいへ\xfffeようこそ！\xf000븁\x0000
-わたしの　なまえは\xfffeアララギと　いいます\xf000븁\x0000\xfffeみんなからは\xfffeポケモンはかせ　と　よばれているわ\xf000븁\x0000
-そう！　この　せかいには\xfffeポケットモンスター\xf000븁\x0000\xfffeちぢめて「ポケモン」とよばれる\xfffeふしぎな　いきものが\xf000븀\x0000\xfffeいたる　ところに　いるの！\xf000븁\x0000
-ふしぎな　ちからを　ひめている\xfffeポケモンは　すがたかたちも\xf000븀\x0000\xfffeくらしている　ばしょも　さまざま\xf000븁\x0000\xfffeそんな　ポケモンたちと\xfffeわたしたち　にんげんは\xf000븀\x0000\xfffeなかよく　くらしているの！\xf000븁\x0000\xfffeいっしょに　いることで\xfffeおたがい　みたされたり\xf000븁\x0000\xfffeちからを　あわせ　たすけあい　\xfffeたいへんな　しごとを　こなしたり\xf000븁\x0000\xfffeなかでも　にんき　なのは\xfffeポケモンどうしを　たたかわせて\xf000븀\x0000\xfffeきずなを　ふかめる　ことね\xf000븁\x0000\xfffeで　わたしは　ポケモンたちを\xfffeけんきゅう　している　ってわけ\xf000븁\x0000
-さて　わたしの　はなしは\xfffeこれぐらいに　して……\xf000븁\x0000\xfffeあなたのことを　おしえてくれるかな\xf000븁\x0000
-あなたは　おとこのこ？\xfffeそれとも　おんなのこ？\xf000븁\x0000
-おとこのこ　なのね？\xf000븁\x0000
-おんなのこ　なのね？\xf000븁\x0000
-おとこのこ
-おんなのこ
-なまえも　しりたいな\xf000븁\x0000\xfffeあなたの　なまえを　おしえて！\xf000븁\x0000
-\xf000Ā\x0001\x0000くん　でいい？\xf000븁\x0000
-\xf000Ā\x0001\x0000さん　であってる？\xf000븁\x0000
-はい
-いいえ
-\xf000Ā\x0001\x0000と　いう　なまえ！\xfffeとても　ステキ　よね！\xf000븁\x0000
+Você pode mudar o idioma do jogo.\xfffeVoce quer jogar em Português?\xf000븀\x0000\xfffeOu prefere jogar em Japonês?\xf000븁\x0000
+Português
+Japonês
+O jogo ficará em Português.\xf000븁\x0000
+O jogo ficará em Japonês.\xf000븁\x0000
+Aguarde enquanto os dados\xfffesalvos são criados.
+Olá!\xf000븁\x0000\xfffeBem vindo ao mundo dos Pokémon!\xf000븁\x0000
+Eu sou a Professora Juniper.\xfffeMas todos me chamam de Professora Pokémon!\xf000븁\x0000
+Isso mesmo! Este mundo é habitado\xfffepor criaturas misteriosas\xf000븀\x0000\xfffeconhecidas como Pokémon!\xf000븁\x0000
+Pokémon têm poderes misteriosos.\xfffeEles têm muitas formas e\xf000븀\x0000\xfffevivem em diferentes lugares.\xf000븁\x0000\xfffeNós humanos vivemos felizes com os\xfffePokémon. Vivemos e trabalhamos\xf000븀\x0000\xfffejuntos, nos complementam.\xf000븁\x0000\xfffeNós ajudamos uns ao outros na\xffferealização de tarefas difíceis.\xf000븁\x0000\xfffeAlgumas pessoas usam seus Pokémon\xfffepara lutar e assim desenvolver\xf000븀\x0000\xfffeum laço mais estreito com eles.\xf000븀\x0000\xfffeE eu estudo os Pokémon.\xf000븁\x0000
+Bem, já falei sobre mim...\xfffeAgora fale um pouco sobre você.\xf000븁\x0000
+Você é um menino?\xfffeOu uma menina?\xf000븁\x0000
+Você um menino, certo?\xf000븁\x0000
+Você um menina, certo?\xf000븁\x0000
+Menino
+Menina
+Gostaria de saber seu nome.\xf000븁\x0000\xfffeMe diz seu nome.\xf000븁\x0000
+Seu nome é \xf000Ā\x0001\x0000?\xf000븁\x0000
+Seu nome é \xf000Ā\x0001\x0000?\xf000븁\x0000
+Sim
+Não
+Então seu nome é \xf000Ā\x0001\x0000.\xfffeÉ um belo nome!\xf000븁\x0000
 それでは　あなたと　いつも\xfffeいっしょに　いる　おともだちを\xf000븀\x0000\xfffeあらためて　しょうかい　するわね\xf000븁\x0000
 それでは　つぎは　あなたの\xfffeしりあいに　ついて　きかせてね\xf000븀\x0000\xfffeきんじょの　おにいさん　なんでしょ\xf000븁\x0000
 かれの　なまえも\xfffeおしえてくれるかな\xf000븁\x0000
