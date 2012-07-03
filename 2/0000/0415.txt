@@ -97,7 +97,7 @@ CANCELAR
 SIM
 NÃO
 NA EQUIPE
-なまえ
+NOME
 ポケモンを　あずける
 \xf000ċ\x0001\x0000
 てもち\xfffeポケモン
