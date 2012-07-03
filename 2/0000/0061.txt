@@ -1,7 +1,8 @@
 すきなリズムで　１０かい\xfffeしたがめんを　タッチしてください
-チェックが　おわりました　あいてと\xfffeせきがいせんつうしんを　してください
-チェックちゅう　です\xfffeつうしんを　つづけてください
-せきがいせんつうしんが　\xfffeつながりました！
+Verificação completa. Criar Conexão\xfffeInfravermelha com o outro treinador.
+Verificando...\xfffePor favor, manter a Conexão Infravermelha.
+Você criou uma  Conexão Infravermelha!
+A conexão foi interrompida.\xfffeせきがいせんを　あわせてください
 つうしんが　きれました\xfffeせきがいせんを　あわせてください
 もどる
 タッチ　スタート
