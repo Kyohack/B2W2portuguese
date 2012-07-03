@@ -4,10 +4,10 @@
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
-Escola um Pokémon.
+Escolha um Pokémon.
 Usar em qual Pokémon?
 Substituir qual?
-lutar usando qual Pokémon?
+Lutar usando qual Pokémon?
 Substituir qual Pokémon?
 L\xf000Ȃ\x0001\x0000
 /
@@ -23,7 +23,7 @@ TROCAR
 ♂
 ♀
 SUMÁRIO
-VER MOVES
+VER MOVIMENTOS
 NÃO PODE LUTAR
 NA LUTA
 PARADO
@@ -33,7 +33,7 @@ Sem item
 \xf000Ă\x0001\x0000
 Lv.
 \xf000Ȃ\x0001\x0000
-PRÓXIMO LV
+PRÓXIMO Lv.
 \xf000ȅ\x0001\x0000
 \xf000Ć\x0001\x0000
 HP
@@ -44,11 +44,11 @@ ATAQUE
 \xf000Ȃ\x0001\x0000
 DEFESA
 \xf000Ȃ\x0001\x0000
-ATK. SP
+ATQ. ESP
 \xf000Ȃ\x0001\x0000
-DEF. SP
+DEF. ESP
 \xf000Ȃ\x0001\x0000
-VELO.
+VELOC.
 \xf000Ȃ\x0001\x0000
 \xf000ć\x0001\x0000
 PP
@@ -65,10 +65,10 @@ CATEGORIA
 FÍSICO
 STATUS
 ESPECIAL
-PONTO(S) DE APELO
+PONTO(S) DE ATRAÇÃO
 ESQUECER
 CANCELAR
-Ataques HM não podem ser\xfffeesquecidos.
+Movimentos HM não podem\xfffeser esquecidos.
 \xf000ć\x0001\x0000
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
@@ -88,12 +88,12 @@ Ataques HM não podem ser\xfffeesquecidos.
 \xf000Ă\x0001\x0000 não tem energia para lutar!
 \xf000Ă\x0001\x0000 \xfffenão pode ser substituído!
 Um Ovo não pode lutar!
-Você não pode substituir um Pokémon do seu parceiro com um seu!
+Não pode trocar um Pokémon do seu parceiro pelo seu!
 Não terá efeito algum.
 HP de \xf000Ă\x0001\x0000 restaurado em\xfffe\xf000Ȃ\x0001\x0001 pontos!
 \xf000Ă\x0001\x0000 foi curado de seu\xfffeenvenenamento.
 \xf000Ă\x0001\x0000 foi curado de sua\xfffeparalisia.
-Queimadura de \xf000Ă\x0001\x0000foi curada.
+Queimadura de \xf000Ă\x0001\x0000 foi curada.
 \xf000Ă\x0001\x0000\xfffefoi descongelado.
 PP foi restaurado.　
 \xf000Ă\x0001\x0000 \xffferecuperou-se do desmaio!
@@ -103,6 +103,6 @@ PP foi restaurado.　
 \xf000Ă\x0001\x0000 \xfffeacordou.
 \xf000Ă\x0001\x0000 já foi\xfffeselecionado.
 Restaurar qual movimento?
-Os　efeitos de \xf000ć\x0001\x0001 previnem o uso do item em\xfffe\xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000 não pode ser substituido\xfffeout!
-\xf000Ă\x0001\x0000 já está substituído\xfffeout.
+Os　efeitos de \xf000ć\x0001\x0001 previnem o \xfffeuso do item em \xf000Ă\x0001\x0000!
+\xf000Ă\x0001\x0000 não pode ser\xfffesubstituido!
+\xf000Ă\x0001\x0000 já foi\xfffesubstituido.
