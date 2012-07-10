@@ -1,8 +1,8 @@
 Não Responder
 Black2
 White2
-Garoto
-Garota
+Rapaz
+Rapariga
 Batalha
 Troca
 A Cidade
@@ -13,63 +13,63 @@ Tempo
 Dinheiro
 Aparência
 Substância
-Legal
+Fixe
 Bonito
 Estranho
 Tepig
 Oshawott
 Snivy
-A Praia
-O Rio
+Competição
+Cooperação
 As Montanhas
-Classes
-Quebrar
-Lanche
+Ir ao passado
+Ir ao futuro
+Não precisa de
 Família
 Amigos
-Eu
-Primavera
-Verão
-Outono
-Inverno
-Doce
+Eu próprio
+Pessoas fixes
+Pessoa inteligente
+Homem engraçado
+Pessoa estranha
+Ir atrás dos sonhos
 Picante
 Azedo
 Amargo
-Diversão
-Legal
-Tipo
+Interessante
+Fixe
+Amável
 Rico
 Batalhas
-Coleta
+Colecionando
 A História
 Pokémon
-Inglês
-Matemática
-Ciências
-Estudos Sociais
-Inglês
-Matemática
-Ciências
-Estudos Sociais
-Treinador
-Professora
-Equipe Plasma
-Pokémon
-Jogar Fora
+Flying
+Tornar-se transparente
+Parar o tempo
+Lê mentes
+Usar
+Gravar
+Ser orgulhoso
+Doar
+0 - 5 years
+5 - 10 years
+10 - 15 years
+15 - years
+Jogar no exterior
 Shopping
-Lendo
+Ler
 Video Games
 Dormir até Tarde
 Pop
 Rock
 Jazz
 Rap
-Classical
+Clássico
 Notícias
 Drama
 Comédia
-Esportes
+Desporto
 Desenhos
 Ação
 Sci-Fi
@@ -81,13 +81,13 @@ Baseball
 Futebol
 Basquete
 Football
-Hockey
-Artes Marciais
-Vermelho
-Verde
-Azul
-Amarelo
-Branco
+Simulação
+Desporto
+Trabalho
+Interpessoal
+Hobby
+Saúde
+Tornar-se Poderoso
 Preto
 Exercitar
 Leitura
