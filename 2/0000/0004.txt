@@ -1,3 +1,3 @@
-Apagar todos os dados salvos?
-Uma vez que os dados forem apagados,\xfffenão vai ser possível recuperá-los.\xf000븁\x0000\xfffeTem certeza que deseja apagar\xfffetodos os dados salvos?
-Apagando dados...\xfffeNão desligue o console.
+Apagar todos os dados gravados?
+Assim que todos os dados sejam apagados,\xfffenão vai ser possível recuperá-los.\xf000븁\x0000\xfffeTem certeza que deseja apagar\xfffetodos os dados gravados?
+Apagando dados...\xfffeNão desligue a consola.
