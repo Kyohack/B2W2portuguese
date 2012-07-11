@@ -1,8 +1,8 @@
-ＨＰ／ＰＰ
+HP / PP
 Restaurar
 Status
-Curas
-ＨＰ／ＰＰ
+Restaurar
+HP / PP
 Restaurar
 Itens de Batalha
 Pokébolas
@@ -20,10 +20,10 @@ Pokébolas
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 Próximo
-HP/PP
+HP / PP
 Restaurar
 Status
-Curas
+Restaurar
 Pokébolas
 Itens de Batalha
 ／
@@ -32,8 +32,8 @@ Itens de Batalha
 Usar
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-Isso não fará nenhum bem!
-Estava envolto em uma neblina branca!\xfffe
+Isso não terá efeito nenhum!
+Estava envolto numa neblina branca!\xfffe
 \xf000Ă\x0001\x0000 \xfffeestá ficando forte!
 \xf000Ă\x0001\x0000 \xfffeaumentou o Ataque!
 \xf000Ă\x0001\x0000 \xfffeaumentou o Ataque Especial!
@@ -42,12 +42,12 @@ Estava envolto em uma neblina branca!\xfffe
 \xf000Ă\x0001\x0000 \xfffeaumentou a Defesa!
 \xf000Ă\x0001\x0000 \xfffeaumentou a Precisão!
 \xf000ĉ\x0001\x0000 \xfffefoi usado!
-Não! É impossível mirar em\xfffe2 Pokémon!
+Não dá! É impossível apontar \xfffequando há 2 Pokémon!
 Não há espaço livre no PC!
-Os efeitos de \xf000c\x0001\x0001 torna impossíve o\xfffeuso do item em \xf000A\x0001\x0000!
-Não vai dar! É impossível mirar em\xfffeum Pokémon fora de vista!
-Não vai dar! É impossível mirar em\xfffeum Pokémon fora de vista!
+Os efeitos de \xf000c\x0001\x0001 tornam impossível o\xfffeuso do item em \xf000A\x0001\x0000!
+Não dá! É impossível apontar a \xfffeum Pokémon fora de vista!
+Não dá! É impossível apontar a \xfffeum Pokémon fora de vista!
 Energia insuficiente
-As palavras de Juniper ecoaram...\xfffe\xf000?\x0000! Há hora para tudo! Agora não.
-Você não pode jogar a bola\xfffesem se concentrar!
-A bola não pode ser usada \xfffepor causa do dispositivo que Ghetsis usou!
+As palavras de Juniper ecoaram...\xfffe\xf000?\x0000! Há hora e lugar para tudo! Mas agora não.
+É impossível apontar \xfffesem se concentrar!
+A bola não pode ser usada \xfffepor causa do dispositivo que o Ghetsis usou!
