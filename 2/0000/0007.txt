@@ -1,20 +1,20 @@
 Bem vindo a\xfffeCompetição de Batalha!
-Existem dois tipos de Competição de Batalha.\xfffeUm deles é o Concurso Wi-Fi, que é realizado\xf000븀\x0000\xfffeatravés da Nintendo Wi-Fi Connection, e o\xf000븁\x0000\xfffeoutro é a Competição Ao Vivo, que se\xffferealiza em certos eventos.\xf000븁\x0000\xfffeSomente Pokémon registrados na sua\xfffecaixa de batalha pode participar.\xf000븀\x0000\xfffeUma vez cadastrado, você não pode mover\xfffeseus Pokémon para sua\xf000븀\x0000\xfffeCaixa de Batalha.\xf000븁\x0000\xfffeQuando você participar de uma competição,\xfffeseu ID de Jogador Digital será atualizado.\xf000븀\x0000\xfffePor favor, verifique isso.\xf000븁\x0000
+Existem dois tipos de Competição de Batalha.\xfffeUm deles é o Concurso Wi-Fi, que é realizado\xf000븀\x0000\xfffeatravés da Nintendo Wi-Fi Connection, e o\xf000븁\x0000\xfffeoutro é a Competição Ao Vivo, que se\xffferealiza em certos eventos.\xf000븁\x0000\xfffeApenas Pokémons registrados na sua\xfffecaixa de batalha podem participar.\xf000븀\x0000\xfffeUma vez registados, você não pode mover\xfffeseus Pokémons da ou para sua\xf000븀\x0000\xfffeCaixa de Batalha.\xf000븁\x0000\xfffeQuando você participar numa competição,\xfffeo seu ID de Jogador Digital será atualizado.\xf000븀\x0000\xfffePor favor, verifique isso.\xf000븁\x0000
 Para a Competição Wi-Fi
 Para a Competição Ao Vivo
 Verificar o seu ID de Jogador Digital
 Informações
 Voltar
 Participar
-Para participar da Competição Wi-Fi,\xfffevocê precisará acessar a página\xf000븀\x0000\xfffeda Pokémon Global link para se registrar.\xf000븀\x0000\xfffehttp://www.pokemon-gl.com\xf000븁\x0000\xfffePor favor, acesse o site Pokémon Global Link\xfffepara ver o regulamento da competição,\xf000븀\x0000\xfffeduração e outras informações.\xf000븁\x0000
-Você vai participar da\xfffeCompetição Wi-Fi?
+Para participar na Competição Wi-Fi,\xfffevocê precisará acessar a página\xf000븀\x0000\xfffeda Pokémon Global link para se registrar.\xf000븀\x0000\xfffehttp://www.pokemon-gl.com\xf000븁\x0000\xfffePor favor, acesse o site Pokémon Global Link\xfffepara ver o regulamento da competição,\xf000븀\x0000\xfffeduração e outras informações.\xf000븁\x0000
+Você vai participar na\xfffeCompetição Wi-Fi?
 Você quer sair\xfffeda Competição Wi-Fi?
 Sim
 Não
 Cancelar participação
-Você vai participar da\xfffeCompetição Ao Vivo?
-Você pode verificar as informações\xfffesobre a Competição Ao Vivo no\xf000븀\x0000\xfffesite oficial do Pokémon:\xf000븀\x0000\xfffehttp://www.pokemon.com.\xf000븁\x0000\xfffeVisite o site oficial Pokémon\xfffepara ver o regulamento de competição,\xf000븀\x0000\xfffeduração e outras informações.\xf000븁\x0000
-Ｗｉ－Ｆｉたいかい　または\xfffeランダムマッチの　さんかちゅうに\xf000븀\x0000\xfffeほんたいの　でんげんが　きれたため\xf000븁\x0000\xfffe１じかん\xfffeたいかいや　ランダムマッチで\xf000븀\x0000\xfffeたいせんが　できなくなります\xf000븁\x0000\xfffeじかんが　たちましたら\xfffeおこしください\xf000븁\x0000
-\xfffeSalvando! Não desligue o console!
-たいせんの　せいかを　たたえて\xfffeバトルポイントを　しんてい　いたします\xf000븁\x0000
-\xf000Ā\x0001\x0000は　バトルポイントを\xfffe\xf000ȁ\x0001\x0001ＢＰ　てにいれた！\xf000븁\x0000
+Você vai participar na\xfffeCompetição Ao Vivo?
+Você pode verificar as informações\xfffesobre a Competição Ao Vivo no\xf000븀\x0000\xfffesite oficial de Pokémon:\xf000븀\x0000\xfffehttp://www.pokemon.com.\xf000븁\x0000\xfffeVisite o site oficial Pokémon\xfffepara ver o regulamento da competição,\xf000븀\x0000\xfffeduração e outras informações.\xf000븁\x0000
+Se a consola desligar\xfffedurante um torneio ou\xf000븀\x0000\xfffeuma batalha em Wi-Fi,\xf000븁\x0000\xfffePor favor\xfffetente novamente em\xf000븀\x0000\xfffeuma hora.\xf000븁\x0000
+\xfffeestá a gravar! Não desligue a consola!
+Battle Points serão atribuidos\xfffedurante os resultados da competição!\xf000븁\x0000
+\xf000Ā\x0001\x0000obteve \xfffe\xf000ȁ\x0001\x0001BP! \xf000븁\x0000
