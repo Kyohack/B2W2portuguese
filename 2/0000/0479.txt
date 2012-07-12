@@ -7,7 +7,7 @@ Insira a primeira letra do nome.
 Insira o tipo.
 Insira a forma.
 Insira a cor.
-Pokémon found!
+Pokémon encontrado!
 Nenhum Pokémon encontrado...
 Pesquisando...
 ORDEM
@@ -24,11 +24,11 @@ CANCELAR
 ACEITAR
 CANCELAR
 Número
-A à Z
-Pesado à Leve
-Leve à Pesado
-Grande à Pequeno
-Pequeno à Grande
+A a Z
+Pesado a Leve
+Leve a Pesado
+Grande a Pequeno
+Pequeno a Grande
 Dark
 Rock
 Psychic
@@ -99,9 +99,9 @@ Azul
 Amarelo
 Verde
 Preto
-Marrom
+Castanho
 Roxo
-Cinza
+Cinzento
 Branco
 Rosa
 ――――
