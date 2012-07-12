@@ -1,7 +1,7 @@
-B2W2FRA
+B2W2PT
 =======
 
-Pokemon Black2 Å& White2 Portuguese Translation by PokeStation
+Pokemon Black2 ÔøΩ& White2 Portuguese Translation by PokeStation
 
 Contributors:
 Kyohack
