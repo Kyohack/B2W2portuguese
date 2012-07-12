@@ -6,7 +6,7 @@ VER
 CONFIRMAR
 FUGIR
 VOLTAR
-FECHAR
+CANCELAR
 MOSTRAR
 BONECO
 CANCELAR
@@ -14,7 +14,7 @@ BOLSA
 CORREIO
 PEGAR
 DAR
-CHECAR
+VERIFICAR
 NADA
 DESELECIONAR
 ？？？
@@ -41,7 +41,7 @@ Dar
 Beber
 \xf000ȃ\x0001\x0000まい
 Fechar
-E \xf000ĉ\x0001\x0000?
+\xf000ĉ\x0001\x0000 está seleccionado.
 Você não pode escrever\xfffecorrespondência aqui！
 Não há pokémon!
 Move \xf000ĉ\x0001\x0000.
@@ -50,26 +50,26 @@ Você não pode dar \xfffe\xf000ĉ\x0001\x0000 pra eles aqui!
 Guardar quantos\xfffe\xf000ĉ\x0001\x0000?
 Você guardou\xfffe\xf000ȁ\x0001\x0001 \xf000ĉ\x0001\x0000.
 Você não pode guardar mais!
-Este é um item importante,\xfffevocê não pode jogar fora！
-Jogar fora quantos\xfffe\xf000ĉ\x0001\x0000(s)?
-Jogou fora \xf000ĉ\x0001\x0000を \xf000Ȃ\x0001\x0001(s).
-Tudo bem jogar fora\xfffe\xf000ĉ\x0001\x0000を \xf000Ȃ\x0001\x0001(s)?
+Este é um item importante,\xfffevocê não pode atirar fora！
+Atirar fora quantos\xfffe\xf000ĉ\x0001\x0000(s)?
+Atirou fora \xf000ĉ\x0001\x0000を \xf000Ȃ\x0001\x0001(s).
+Tem certeza que quer atirar fora\xfffe\xf000ĉ\x0001\x0000を \xf000Ȃ\x0001\x0001(s)?
 Como Professor Araragi disse... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000Há sempre tempo e lugar\xfffepara usar isso!
 Você não pode sair da bike aqui!
 Como Professor Araragi disse... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000Há sempre tempo e lugar\xfffepara usar isso!
-Suas Moedas:　\xf000Ȅ\x0001\x0000
+As suas Moedas:　\xf000Ȅ\x0001\x0000
 Iniciou um TM!
 Iniciou um HM!
 Contém　\xf000ć\x0001\x0000.\xf000븁\x0000Ensinar \xf000ć\x0001\x0000\xfffea um Pokémon?
 \xf000Ā\x0001\x0000 usou o\xfffe\xf000ĉ\x0001\x0001!
-Como ainda há efeito de algum repel,\xfffevocê não pode usar isso agora!
+Como o Repel ainda está em efeito,\xfffevocê não pode usar isso agora!
 \xf000Ā\x0001\x0000 usou o\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Pokémons Selvagens serão atraídos!
 \xf000Ā\x0001\x0000 usou o\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Pokémons Selvagens serão repelidos!
 A box está cheia!
 Pós:　\xf000ȃ\x0001\x0000
 \xf000봂\x0000Ｎｏ．\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Ｎｏ\xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
-\xf000봂\x0000ひでん\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
+\xf000봂\x0000Hidden\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Pó de Berries
 Tocou a Poke Flauta!\xfffeWow! Que som ótimo!
 Tocou a Poke Flauta!
@@ -87,7 +87,7 @@ Sim
 Não
 Vender
 ×\xf000Ȃ\x0001\x0000
-Sacar
+Tirar
 ＰＰ
 Poder
 Precisão
@@ -99,21 +99,21 @@ Accessórios:　\xf000Ȃ\x0001\x0000\xfffeBackdrops:　　　　\xf000ȁ\x0001\x
 Fechar bolsa
 Enterrar
 Abrir
-Battle Points salvos:\xfffe\xf000ȃ\x0001\x0000 BP
+Battle Points guardados:\xfffe\xf000ȃ\x0001\x0000 BP
 Tipo
-Um Key Item na bolsa pode ser marcado\xfffeà este botão para uso instantâneo.
+Um Key Item na bolsa pode ser marcado\xfffea este botão para uso instantâneo.
 Você só pode marcar dois itens \xfffeao botão!
 Ligou \xfffeSons de GB!
-Desligou \xfffeSons deGB!
+Desligou \xfffeSons de GB!
 Não pode usar o \xf000ĉ\x0001\x0000.
 Espiou a bolsa de tesouros!
 Tirou \xf000ĉ\x0001\x0000!
 Colocou \xf000ĉ\x0001\x0000\xfffe na \xf000ĉ\x0001\x0001.
 Você tirou tudo!
-Não havia nada dentro...
-Entretanto, você não pode\xfffetirar...
-Bateria baixa!\xfffeAguarde \xf000븀\x0000\xf000ȁ\x0001\x0000 passos até\xfffecarregar!
-Os campos de grama\xfffeestavam quietos...
+Não tinha nada lá dentro...
+No entanto, você não pode\xfffetirar...
+Bateria fraca!\xfffeAguarde \xf000븀\x0000\xf000ȁ\x0001\x0000 passos até\xfffecarregar!
+Os campos de relva\xfffeestavam quietos...
 Poffins:
 \xf000Ȃ\x0001\x0000／１００
 Escolha um pó\xfffepara cozinhar!
@@ -133,29 +133,29 @@ Parar
 Sim
 Não
 \xf000봂\x0000\xf000ĉ\x0001\x0000
-Vazio!
-Você usou a Pedra Negra\xfffemas nada aconteceu...
-Você usou a Pedra de Luz\ xfffemas nada aconteceu...
+Está vazio!
+Você usou uma Pedra Negra\xfffemas não aconteceu nada...
+Você usou uma Pedra de Luz\ xfffemas não aconteceu nada...
 Seus itens foram\xfffeorganizados!
 \xf000Ē\x0001\x0000
-しゅるいじゅんに\xfffeもちものを　せいり　しました！
-なまえじゅんに\xfffeもちものを　せいり　しました！
-おおいじゅんに\xfffeもちものを　せいり　しました！
-すくないじゅんに\xfffeもちものを　せいり　しました！
-ぜんぶ
-フリースペースへ
-もとのポケットへ
-さがしたい　しゅるいを\xfffeえらんで　ください
-\xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
-\xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　いどう　しました！
-\xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　もどしました！
-どの　ならびに　かえますか？
-しゅるいじゅん
-なまえじゅん
-おおいじゅん
-すくないじゅん
-ばんごうじゅん
-もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
-ばんごうじゅんに\xfffeもちものを　せいり　しました！
-みつかりません
-しまう
+Seus itens foram\xfffeorganizados por tipo!
+Seus itens foram\xfffeorganizados por nome!
+Seus itens foram\xfffeorganizados em ordem decrescente.
+Seus itens foram\xfffeorganizados em ordem crescente.
+Total
+Mover para a storage
+Mover de volta
+Selecciona o\xfffeque estás à procura!
+\xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001 foi encontrado!
+\xf000ĉ\x0001\x0001 \xfffe\xf000Ē\x0001\x0000 foi movido!
+\xf000ĉ\x0001\x0001 \xfffe\xf000Ē\x0001\x0000 foi devolvido!
+Como queres organizar?
+Por tipo
+Por nome
+Maior para menor
+Menor para maior
+Ordem numérica
+\xfffe\xf000Ȃ\x0001\x0001 belongings found!
+Seus itens foram\xfffe organizados em ordem numérica.
+Nao encontrado
+Put away

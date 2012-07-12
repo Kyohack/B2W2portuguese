@@ -1,18 +1,18 @@
 VÍDEOS DE BATALHA
-BATALHA NO METRÔ
+BATALHA NO METRO
 DISPUTA ALEATÓRIA
 CANCELAR
 SAIR
 MEUS VÍDEOS
 OUTROS VÍDEOS
-DELETE VIDEOS
-\xf000봂\x0000\xf000Ā\x0001\x0000　VÍDEO
+APAGAR VÍDEOS
+VÍDEO DE \xf000봂\x0000\xf000Ā\x0001\x0000
 VAZIO
 \xf000ȃ\x0001\x0000
 Batalha
 \xf000봂\x0000Video no.:\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002
 \xf000봂\x0000Video no.:\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002★
-\xf000봂\x0000\xf000Ā\x0001\x0000　PERFIL
+Perfil de \xf000봂\x0000\xf000Ā\x0001\x0000
 Mudo
 \xf000봂\x0000\xf000ȁ\x0001\x0000Nasceu em
 \xf000봂\x0000Local
@@ -24,55 +24,55 @@ Não Registado
 \xf000Ĥ\x0001\x0000
 \xf000ĥ\x0001\x0000
 \xf000Ĝ\x0001\x0000　\xf000Ĝ\x0001\x0001
-\xf000Ā\x0001\x0000　VÍDEO
-DELETAR MEU VÍDEO
-DELETAR OUTRO VÍDEO
-あき
-\xf000Ā\x0001\x0000　のきろくをけす
-BUSCA POR CLASSIFICAÇÃO
-データをおくる
-NEWEST 30
-BUSCA
-BUSCA POR NÚMERO
-BUSCA POR FACILIDADE
-BUSCA POR POKÉMON
-SEARCH YOUR LOCATION
+VÍDEO DE \xf000Ā\x0001\x0000
+APAGAR MEU VÍDEO
+APAGAR OUTROS VÍDEOS
+Outono
+Apagar recordes de \xf000Ā\x0001\x0000
+PROCURAR POR CLASSIFICAÇÃO
+ENVIAR DATA
+ULTIMOS 30
+PROCURAR
+PROCURAR POR NÚMERO
+PROCURAR POR FACILIDADE
+PROCURAR POR POKÉMON
+PROCURAR A TUA LOCALIZAÇÃO
 LINK DE BATALHA
-BATALHA NO METRÔ
+BATALHA NO METRO
 ENVIAR FOTO
 VER FOTOS
 ENVIAR
 Por favor, escolha o Pokémon que você quer ver.
-\xf000Ā\x0001\x0000　の　しゃしん\xfffe\xf000Ĝ\x0001\x0001
+\xf000Ā\x0001\x0000 Quadros\xfffe\xf000Ĝ\x0001\x0001
 \xf000Ā\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001
-しゃしん
+FOTO
 Enviar Dados da Caixa
 Ver Dados da Caixa
 Favorito
-Legal
+Fixe
 Fofo
 Sugerido
 Divertido
 Selecionar
-ボックス
-くわしくみる
-ア
-カ
-サ
-タ
-ナ
-ハ
-マ
-ヤ
-ラ
-ワ
+Box
+Ver foto
+ABC
+DEF
+GHI
+JKL
+MNO
+PQR
+STU
+VWX
+YZ
+
 Classificação desta Semana
 Classificação da Última Semana
 Mudar Classificações
 Trocar Equipes
-チーム：トレーナータイプ
-チーム：うまれたつき
-チーム：すきなポケモン
+Equipa： Tipo do treinador
+Equipa： Mês de nascimento
+Equipa： Pokemon favorito
 \xf000Ā\x0001\x0001：\xf000Ď\x0001\x0000
 \xf000Ā\x0001\x0001：\xf000ȁ\x0001\x0000がつうまれ
 \xf000Ā\x0001\x0001：\xf000ā\x0001\x0000
@@ -82,263 +82,263 @@ Trocar Equipes
 Resultado da Última Semana
 Coliseu
 Batalha da Fronteira
-SALVAR
+GRAVAR
 VER VÍDEO\xfffeDA BATALHA
 VÍDEO DA BATALHA
-NEWEST 30 BATTLE VIDEOS
-TOP-RANKED BATTLE VIDEOS\xfffeLINK BATTLE
-TOP-RANKED BATTLE VIDEOS\xfffeBATTLE SUBWAY
-LIST OF BATTLE VIDEOS FROM\xfffeSEARCH RESULTS
+ULTIMOS 30 BATTLE VIDEOS
+VIDEOS DE BATALHA MELHORES CLASSIFICADOS\xfffeLINK DA BATTLE
+VIDEOS DE BATALHA MELHORES CLASSIFICADOS\xfffeBATALHA NO METRO
+LISTA DOS VIDEOS DE BATALHA DOS\xfffe RESULTADOS DE PESQUISA
 
-Where would you like to save\xfffe\xf000Ā\x0001\x0000's Battle Video?
-うわがきほぞん
-Is it OK to delete\xfffe\xf000Ā\x0001\x0000's Battle Video?
+Onde gostaria de gravar o video \xfffeda batalha de \xf000Ā\x0001\x0000?
+SOBRESCREVER
+Pretende apagar o \xfffeVideo de Batalha de\xf000Ā\x0001\x0000?
 VER VÍDEOS DA BATALHA
 ENVIAR VÍDEOS DA BATALHA
-Newest 30
-Buscar
-Buscar Vídeo por Número
-Buscar por Facilidade
-Buscar por Pokémon
-Search Your Location
+ULTIMOS 30
+PROCURAR
+Procurar Vídeo por Número
+Procurar por Facilidade
+Procurar por Pokémon
+Procurar a tua localização
 ＯＫ！
 Por favor, digite o número do Vídeo.
-Please choose the facility.
+Por favor, escolha a facilidade.
 Por favor, escolha o Pokémon.
-Please enter the search criteria.
-You haven’t set any search criteria.
-Loading Battle Video...
-There is no matching Battle Video...
-Sending the Battle Video...
-バトルビデオを　おくりました！
-\xf000봂\x0000View Profile
-\xf000봂\x0000Close Profile
-Newest 30 Battle Videos
-Please set the search criteria.
-Undefined
-LIST OF BATTLE VIDEOS FROM\xfffeSEARCH RESULTS
-The same Battle Video can't be sent again.\xfffeTouch the Touch Screen to continue.
-You have not registered your location.
-There is no Battle Video to send.
+Insere os critérios de procura.
+Não foram inseridos critérios de procura.
+A carregar o Video de Batalha...
+Não há Video de Batalha correspondente...
+A enviar o Video de Batalha...
+O Video de Batalha foi enviado!
+\xf000봂\x0000Ver Perfil
+\xf000봂\x0000Fechar Perfil
+ULTIMOS 30 Videos de BATALHA
+Insere os criterios de procura.
+Não definido
+LISTA DOS VIDEOS DE BATALHA \xfffeDOS RESULTADOS DE PROCURA
+O mesmo Video de Batalha não pode ser enviado outra vez.\xfffeToca no Touch Screen para continuar.
+Não registada a tua localização.
+Não há Video de Batalha para enviar.
 \xf000ȁ\x0001\x0000
-つうしんたいせん
-BATTLE SUBWAY
-すんでいるばしょ\xfffe\xf000Ĥ\x0001\x0000
-\xf000봂\x0000SINGLE TRAIN
-\xf000봂\x0000DOUBLE TRAIN
-\xf000봂\x0000MULTI TRAIN
-\xf000봂\x0000Wi-Fi TRAIN
-\xf000봂\x0000BATTLE SUBWAY
-\xf000봂\x0000SUPER SINGLE TRAIN
-\xf000봂\x0000SUPER DOUBLE TRAIN
-\xf000봂\x0000SUPER MULTI TRAIN
-Please select the Record\xfffeyou want to view.
-PREVIOUS:
-RECORD:
+Procurar por Pokemon
+BATALHA NO METRO
+Localização: \xfffe\xf000Ĥ\x0001\x0000
+\xf000봂\x0000CARRUAGEM SINGLE
+\xf000봂\x0000CARRUAGEM DUPLA
+\xf000봂\x0000CARRUAGEM MULTI
+\xf000봂\x0000CARRUAGEM Wi-Fi
+\xf000봂\x0000BATTLE NO METRO
+\xf000봂\x0000CARRUAGEM SUPER SINGLE
+\xf000봂\x0000CARRUAGEM SUPER DUPLA
+\xf000봂\x0000CARRUAGEM SUPER MULTI
+Selecciona o Recorde \xfffeque pretendes ver.
+ANTERIOR:
+RECORDE:
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-Wins
-Multi with Trainer
-Multi with friend
-RANK
-Current Record
-\xf000봂\x0000Wi-Fi Train Record
-CURRENT:
-\xf000봂\x0000\xf000Ā\x0001\x0000'S RATING
-\xf000봂\x0000RATING MODE RECORD
-\xf000봂\x0000FREE MODE RECORD
-\xf000봂\x0000Win
-\xf000봂\x0000Lose
+\xf000봃\x0001\x0000 Vitórias
+Multi com Treinador
+Multi com amigo
+RANKING
+Recorde actual
+\xf000봂\x0000Recorde da Carruagem Wi-Fi
+ACTUAL:
+\xf000봂\x0000\xf000Ā\x0001\x0000 Classificação
+\xf000봂\x0000RECORDE MODO CLASSIFICAÇÃO
+\xf000봂\x0000RECORDE MODO LIVRE
+\xf000봂\x0000Vitoria
+\xf000봂\x0000Derrota
 \xf000봃\x0001\x0000Single:
-\xf000봃\x0001\x0000Double:
-\xf000봃\x0001\x0000Triple:
-\xf000봃\x0001\x0000Rotation:
-\xf000봃\x0001\x0000Launcher:
+\xf000봃\x0001\x0000Dupla:
+\xf000봃\x0001\x0000Trio:
+\xf000봃\x0001\x0000Rotação:
+\xf000봃\x0001\x0000Lançador:
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 \xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
-\xf000봃\x0001\x0000Rating
-\xf000봂\x0000YES
-\xf000봂\x0000NO
-YES
-NO
-Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
-Colosseum Single,\xfffeNo Restrictions
-Colosseum Single,\xfffeFlat
-Colosseum Single,\xfffeNo Restrictions, Launcher On
-Colosseum Single,\xfffeFlat, Launcher On
-Colosseum Double,\xfffeNo Restrictions
-Colosseum Double,\xfffeFlat
-Colosseum Double,\xfffeNo Restrictions, Launcher On
-Colosseum Double,\xfffeFlat, Launcher On
-Colosseum Triple,\xfffeNo Restrictions
-Colosseum Triple,\xfffeFlat
-Colosseum Triple,\xfffeNo Restrictions, Launcher On
-Colosseum Triple,\xfffeFlat, Launcher On
-Colosseum Rotation,\xfffeNo Restrictions
-Colosseum Rotation,\xfffeFlat
-Colosseum Rotation,\xfffeNo Restrictions, Launcher On
-Colosseum Rotation,\xfffeFlat, Launcher On
-Colosseum Multi,\xfffeNo Restrictions
-Colosseum Multi,\xfffeFlat
-Colosseum Multi,\xfffeNo Restrictions, Launcher On
-Colosseum Multi,\xfffeFlat, Launcher On
-Battle Subway,\xfffeSingle
-Battle Subway,\xfffeDouble
-Battle Subway,\xfffeMulti
-Random Matchup, Free\xfffeSingle
-Random Matchup, Free\xfffeDouble
-Random Matchup, Free\xfffeTriple
-Random Matchup, Free\xfffeRotation
-Random Matchup, Free\xfffeLauncher Battle
-Random Matchup, Rating\xfffeSingle
-Random Matchup, Rating\xfffeDouble
-Random Matchup, Rating\xfffeTriple
-Random Matchup, Rating\xfffeRotation
-Random Matchup, Rating\xfffeLauncher Battle
-Competition, Single\xfffeLauncher Off
-Competition, Single\xfffeLauncher On
-Competition, Double\xfffeLauncher Off
-Competition, Double\xfffeLauncher On
-Competition, Triple\xfffeLauncher Off
-Competition, Triple\xfffeLauncher On
-Competition, Rotation\xfffeLauncher Off
-Competition, Rotation\xfffeLauncher On
-01: Colosseum, Single\xfffeLauncher Off
-02: Colosseum, Single\xfffeLauncher On
-03: Colosseum, Double\xfffeLauncher Off
-04: Colosseum, Double\xfffeLauncher On
-05: Colosseum, Triple\xfffeLauncher Off
-06: Colosseum, Triple\xfffeLauncher On
-07: Colosseum, Rotation\xfffeLauncher Off
-08: Colosseum, Rotation\xfffeLauncher On
-09: Colosseum, Multi\xfffeLauncher Off
-10: Colosseum, Multi\xfffeLauncher On
-11: Battle Subway\xfffeSingle
-12: Battle Subway\xfffeDouble
-13: Battle Subway\xfffeMulti
-14: Random Matchup\xfffeSingle
-15: Random Matchup\xfffeDouble
-16: Random Matchup\xfffeTriple
-17: Random Matchup\xfffeRotation
-18: Random Matchup\xfffeLauncher Battle
-19: Battle Competition
-20: Battle Castle\xfffeMulti
-21: Battle Arcade\xfffeSingle
-22: Battle Arcade\xfffeDouble
-23: Battle Arcade\xfffeMulti
-\xf000봂\x0000TAP HERE!
-Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
+\xf000봃\x0001\x0000Classificação
+\xf000봂\x0000SIM
+\xf000봂\x0000NÃO
+SIM
+NÃO
+Desconectar da \xfffeNintendo Wi-Fi Connection?
+Coliseu Single,\xfffeSem restrições
+Coliseu Single,\xfffeLiso
+Coliseu Single,\xfffeSem restrições, Lançador Ligado
+Coliseu Single,\xfffeLiso, Lançador Ligado
+Coliseu Dupla,\xfffeSem restrições
+Coliseu Dupla,\xfffeLiso
+Coliseu Dupla,\xfffeSem restrições, Lançador Ligado
+Coliseu Dupla,\xfffeLiso, Lançador Ligado
+Coliseu Trio,\xfffeSem restrições
+Coliseu Trio,\xfffeLiso
+Coliseu Trio,\xfffeSem restrições, Lançador Ligado
+Coliseu Trio,\xfffeLiso, Lançador Ligado
+Coliseu Rotação,\xfffeSem restrições
+Coliseu Rotação,\xfffeLiso
+Coliseu Rotação,\xfffeSem restrições, Lançador Ligado
+Coliseu Rotação,\xfffeLiso, Lançador Ligado
+Coliseu Multi,\xfffeSem restrições
+Coliseu Multi,\xfffeLiso
+Coliseu Multi,\xfffeSem restrições, Lançador Ligado
+Coliseu Multi,\xfffeLiso, Lançador Ligado
+Batalha no Metro,\xfffeSingle
+Batalha no Metro,\xfffeDupla
+Batalha no Metro,\xfffeMulti
+Partida Aleatória, Livre\xfffeSingle
+Partida Aleatória, Livre\xfffeDupla
+Partida Aleatória, Livre\xfffeTrio
+Partida Aleatória, Livre\xfffeRotação
+Partida Aleatória, Livre\xfffeBatalha de Lançador
+Partida Aleatória, Clasificação\xfffeSingle
+Partida Aleatória, Clasificação\xfffeDupla
+Partida Aleatória, Clasificação\xfffeTrio
+Partida Aleatória, Clasificação\xfffeRotação
+Partida Aleatória, Clasificação\xfffeBatalha de Lançador
+Competição, Single\xfffeLançador Desligado
+Competição, Single\xfffeLançador Ligado
+Competição, Dupla\xfffeLançador Desligado
+Competição, Dupla\xfffeLançador Ligado
+Competição, Trio\xfffeLançador Desligado
+Competição, Trio\xfffeLançador Ligado
+Competição, Rotação\xfffeLançador Desligado
+Competição, Rotação\xfffeLançador Ligado
+01: Coliseu, Single\xfffeLançador Desligado
+02: Coliseu, Single\xfffeLançador Ligado
+03: Coliseu, Dupla\xfffeLançador Desligado
+04: Coliseu, Dupla\xfffeLançador Ligado
+05: Coliseu, Trio\xfffeLançador Desligado
+06: Coliseu, Trio\xfffeLançador Ligado
+07: Coliseu, Rotação\xfffeLançador Desligado
+08: Coliseu, Rotação\xfffeLançador Ligado
+09: Coliseu, Multi\xfffeLançador Desligado
+10: Coliseu, Multi\xfffeLançador Ligado
+11: Batalha no Metro\xfffeSingle
+12: Batalha no Metro\xfffeDupla
+13: Batalha no Metro\xfffeMulti
+14: Partida Aleatória\xfffeSingle
+15: Partida Aleatória\xfffeDupla
+16: Partida Aleatória\xfffeTrio
+17: Partida Aleatória\xfffeRotação
+18: Partida Aleatória\xfffeBatalha de Lançador
+19: Competição de Batalha
+20: Batalha em Castelo\xfffeMulti
+21: Battle em Arcade\xfffeSingle
+22: Battle em Arcade\xfffeDupla
+23: Battle em Arcade\xfffeMulti
+\xf000봂\x0000Carrega AQUI!
+Desconectar da\xfffeNintendo Wi-Fi Connection?
 　
-Authentication error.\xfffeUnable to connect.
-This data is already registered.\xfffeTouch the Touch Screen to continue.
-There appears to be a problem\xfffewith the Musical Photo.
-There appears to be a problem with the\xfffePokémon in the Musical Photo.
-There appears to be a problem\xfffewith the Profile data.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Erro de autenticação.\xfffeFalha ao conectar.
+Estes dados já estão registados.\xfffeToca no Touch Screen para continuar.
+Parece haver um problema\xfffecom o Musical Photo.
+Parece haver um problema com\xfffeo Pokémon no Musical Photo.
+Parece haver um problema com\xfffeos dados do Perfil.
+Ocorreu um erro.\xfffeToca no Touch Screen para continuar.
 　
-Authentication error.\xfffeUnable to connect.
-There appears to be a problem with the\xfffechosen Pokémon.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Erro de autenticação.\xfffeFalha ao conectar.
+Parece haver um problema com\xfffeo Pokémon escolhido.
+Ocorreu um erro.\xfffeToca no Touch Screen para continuar.
 　
-User authentication error.\xfffePlease wait a while before reconnecting.
-This data is already registered.\xfffeTouch the Touch Screen to continue.
-There appears to be a problem with the\xfffeBox Data.
-There appears to be a problem with the\xfffeProfile data.
-There appears to be a problem with your\xfffeparty.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Erro de autenticação de Utilizador.\xfffeEspera um pouco antes de reconectar.
+Estes dados já estão registados.\xfffeToca no Touch Screen para continuar.
+Parece haver um problema com\xfffeos dados da Box.
+Parece haver um problema com\xfffeos dados de Perfil.
+Parece haver um problema com \xfffa tua equipa.
+Ocorreu um erro.\xfffeToca no Touch Screen para continuar.
 　
-User authentication error.\xfffePlease wait a while before reconnecting.
-There appears to be a problem with your\xfffeparty.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Erro de autenticação de Utilizador.\xfffeEspera um pouco antes de reconectar.
+Parece haver um problema com \xfffa tua equipa.
+Ocorreu um erro.\xfffeToca no Touch Screen para continuar.
 　
-User authentication error.\xfffePlease wait a while before reconnecting.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Erro de autenticação de Utilizador.\xfffeEspera um pouco antes de reconectar.
+Ocorreu um erro.\xfffeToca no Touch Screen para continuar.
 　
-User authentication error.\xfffePlease wait a while before reconnecting.
-Failed to receive ranking data.\xfffeTouch the Touch Screen to continue.
-There appears to be a problem with your\xffferanking record.
-here appears to be a problem with the\xfffeProfile data.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Erro de autenticação de Utilizador.\xfffeEspera um pouco antes de reconectar.
+Falha ao receber os dados de classificação.\xfffeToca no Touch Screen para continuar.
+Parece haver um problema comos teus\xffferecordes de classificação.
+Parece haver um problema com os\xfffeteus dados de Perfil.
+Ocorreu um erro.\xfffeToca no Touch Screen para continuar.
 　
-Authentication error.\xfffeUnable to connect.
-This data is already registered.\xfffeTouch the Touch Screen to continue.
-There appears to be a problem\xfffewith the Battle Video.
-There appears to be a problem\xfffewith the Battle Video.
-There appears to be a problem\xfffewith the Profile data.
-There appears to be a problem with the\xfffePokémon in the Battle Video.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Erro de autenticação.\xfffeFalha ao conectar.
+Estes dados já estão registados.\xfffeToca no Touch Screen para continuar.
+Parece haver um problema com\xfffea Batalha de Video.
+Parece haver um problema com\xfffea Batalha de Video.
+Parece haver um problema com\xfffeos dados de Perfil.
+Parece haver um problema com o\xfffePokémon na Batalha de Video.
+Ocorreu um erro.\xfffeToca no Touch Screen para continuar.
 　
-Authentication error.\xfffeUnable to connect.
-There appears to be a problem\xfffewith the search criteria.
-There appears to be a problem\xfffewith the search criteria.
-The search failed...
+Erro de autenticação.\xfffeFalha ao conectar.
+Parece haver um problema com\xfffeos critérios de procura.
+Parece haver um problema com\xfffeos critérios de procura.
+A procura falhou...
 　
-Authentication error.\xfffeUnable to connect.
-No matching Battle Videos found...\xfffeTouch the Touch Screen to continue.
-You cannot watch this Battle Video.
-Failed to receive the Battle Video.
-　
-　
-　
-　
-　
-An error occurred.\xfffeError Code 10601
-An error occurred.\xfffeError Code 10602
-An error occurred.\xfffeError Code 10603
-An error occurred.\xfffeError Code 10604
-Unable to connect.\xfffeError Code 10605
-An error occurred.\xfffeError Code 10606
-Unable to connect.\xfffeError Code 10607
-An error occurred.\xfffeError Code 10608
-An error occurred.\xfffeError Code 10609
-There is no response.\xfffeError Code 10610
-There is no response.\xfffeError Code 10611
-There is no response.\xfffeError Code 10612
-Communication was interrupted.\xfffeError Code 10613
-Unable to connect.\xfffeError Code 10614
+Erro de autenticação.\xfffeFalha ao conectar.
+Não foram encontrados Videos de Batalha correpondentes...\xfffeToca no Touch Screen para continuar.
+Não podes ver este Video de Batalha.
+Falha ao receber o Video de Batalha.
 　
 　
 　
 　
 　
+Ocorreu um erro.\xfffeError Code 10601
+Ocorreu um erro.\xfffeError Code 10602
+Ocorreu um erro.\xfffeError Code 10603
+Ocorreu um erro.\xfffeError Code 10604
+Falha ao conectar.\xfffeError Code 10605
+Ocorreu um erro.\xfffeError Code 10606
+Falha ao conectar.\xfffeError Code 10607
+Ocorreu um erro.\xfffeError Code 10608
+Ocorreu um erro.\xfffeError Code 10609
+Não há sinal de resposta.\xfffeError Code 10610
+Não há sinal de resposta.\xfffeError Code 10611
+Não há sinal de resposta.\xfffeError Code 10612
+Comunicação interrompida.\xfffeError Code 10613
+Falha ao conectar.\xfffeError Code 10614
 　
 　
-The connection to the server was lost.\xfffeTouch the Touch Screen to continue.
 　
 　
-There is nothing saved.\xfffeTouch the Touch Screen to continue.
-Please choose a Box.
-An empty Box’s Data can’t be sent.
-Where would you like to send this?
-Only one Box Data may be sent at a time.
-The same Box Data can’t be sent.
-Which category would you like to see?
-The saved data could not be deleted...
-The same Battle Video can't be saved again.\xfffeTouch the Touch Screen to continue.
-Saving...\xfffeDon't turn off the power.
-Receiving ranking data...
-Sending save data...
-Save completed.\xfffeTouch the Touch Screen to continue.
-Is it OK to delete\xfffe\xf000Ā\x0001\x0000's Battle Video?
-Is it really OK to delete this data?
-Deleting data...\xfffeSaving... Don't turn off the power.
-The data was deleted.\xfffeTouch the Touch Screen to continue.
-Sending your Musical Photo...
-Receiving Musical Photo...
-Sending your Box Data...
-Receiving Box Data...
-You have no saved data to send.\xfffeParticipate in the data to send.
-The same data can't be sent again.\xfffeTouch the Touch Screen to continue.
-Receiving Battle Videos...
-No matching data was found...\xfffeTouch the Touch Screen to continue.
-No matching Musical Photo was found...\xfffeTouch the Touch Screen to continue.
-Your Battle Video was sent.\xfffeVideo no.: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002
-The game will be saved before\xfffeyou can view Battle Videos.
-Deleting data... Saving a lot of\xfffedata... Don't turn off the power.
-Saving a lot of data...\xfffeDon't turn off the power.
-Saving...\xfffeDon't turn off the power.
-There is no ranking data...\xfffeTouch the Touch Screen to continue.
-Would you like to send\xfffeyour Battle Video?
+　
+　
+　
+A conecção com o servidor foi perdida.\xfffeToca no Touch Screen para continuar.
+　
+　
+Não existem dados.\xfffeToca no Touch Screen para continuar.
+Escolhe uma Box.
+Não podes enviar uma Box vazia.
+Onde gostarias de enviar isto?
+Apenas pode ser enviada uma \xfffeBox de cada vez.
+A mesma Box não pode ser enviada.
+Qual categoria gostarias de ver?
+Os dados guardados não conseguiram\xfffe ser apagados...
+O mesmo Video de Batalha não pode ser \xfffeguardado outra vez.\xfffeToca no Touch Screen para continuar.
+A gravar...\xfffeNão desligues a consola.
+A receber dados de classificação...
+A enviar dados guardados...
+Gravação concluída.\xfffeToca no Touch Screen para continuar.
+Apagar Video de Batalha de\xf000Ā\x0001\x0000?
+Eliminar estes dados?
+A eliminar os dados...\xfffeA gravar... Não desligar a consola.
+Os dados foram eliminados.\xfffeToca no Touch Screen para continuar.
+A enviar o teu Musical Photo...
+A receber o Musical Photo...
+A enviar a tua Box...
+A receber a Box...
+Não tens dados guardados para enviar.\xfffeParticipa os dados para envio.
+Os mesmos dados nao podem ser enviados de novo.\xfffeToca no Touch Screen para continuar.
+A receber Videos de Batalha...
+Não encontrados dados correspondentes...\xfffeToca no Touch Screen para continuar.
+Não encontrado Musical Photo correspondente...\xfffeToca no Touch Screen para continuar.
+O teu Video de Batalha foi enviado.\xfffeVideo no.: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002
+O teu progresso irá ser guardado antes\xfffeque possas ver Videos de Batalha.
+A eliminar dados... A gravar montes\xfffede dados... Não desligues a consola.
+A gravar montes de dados...\xfffeNão desligues a consola.
+A gravar...\xfffeNão desligues a consola.
+Não há classificação...\xfffeToca no Touch Screen para continuar.
+Gostarias de enviar o\xfffeteu Video de Batalha?
 
 　
 　
@@ -369,4 +369,4 @@ Idol
 Socialite
 Cowgirl
 Lady
-Goldver．
+Goldver.
