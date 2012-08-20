@@ -1,6 +1,6 @@
 HP / PP
 Restaurar
-Status
+Estado
 Restaurar
 HP / PP
 Restaurar
@@ -22,7 +22,7 @@ Pokébolas
 Próximo
 HP / PP
 Restaurar
-Status
+Estado
 Restaurar
 Pokébolas
 Itens de Batalha
@@ -50,4 +50,4 @@ Não dá! É impossível apontar a \xfffeum Pokémon fora de vista!
 Energia insuficiente
 As palavras de Juniper ecoaram...\xfffe\xf000?\x0000! Há hora e lugar para tudo! Mas agora não.
 É impossível apontar \xfffesem se concentrar!
-A bola não pode ser usada \xfffepor causa do dispositivo que o Ghetsis usou!
+A bola não pode ser usada em \xfffepor causa do dispositivo que o Ghetsis usou!
