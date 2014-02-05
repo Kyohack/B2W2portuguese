@@ -44,22 +44,22 @@ Batalhas
 Colecionando
 A História
 Pokémon
-Flying
-Tornar-se transparente
+Voador
+Tornar-se invisível
 Parar o tempo
 Lê mentes
 Usar
 Gravar
 Ser orgulhoso
 Doar
-0 - 5 years
-5 - 10 years
-10 - 15 years
-15 - years
+0 - 5 anos
+5 - 10 anos
+10 - 15 anos
+15 - anos
 Jogar no exterior
-Shopping
+Centro Comercial
 Ler
-Video Games
+Jogos de Vídeo
 Dormir até Tarde
 Pop
 Rock
@@ -77,18 +77,18 @@ Romance
 Suspense
 Comédia
 Horror
-Baseball
-Futebol
-Basquete
-Football
+Ação
+Puzzle
+RPG 
+Aventura
 Simulação
 Desporto
 Trabalho
-Interpessoal
+Relações
 Hobby
 Saúde
-Tornar-se Poderoso
-Preto
+Fama
+-
 Exercitar
 Leitura
 Musica
@@ -96,7 +96,7 @@ Filmes
 Viajar
 Cozinhar
 Pescar
-Video Games
+Jogos de Vídeo  
 Estudante
 Secretário
 Criador
@@ -105,34 +105,34 @@ Funcionário Público
 Dona de Casa
 Artista
 Job-Hopper
-Chili
-Cilan
-Cress
-Lenora
+Cheren
+Roxie
 Burgh
 Elesa
 Clay
 Skyla
-Brycen
-Iris
 Drayden
+Marlon
+-
+-
+-
 Normal
-Fire
-Water
-Electric
-Grass
-Ice
-Fighting
-Poison
-Ground
-Flying
-Psychic
-Bug
-Rock
-Ghost
-Dragon
-Dark
-Steel
+Fogo  
+Água
+Eletricidade
+Erva  
+Gelo
+Luta
+Veneno
+Areia 
+Voador
+Psiquico
+Inseto
+Rocha
+Fantasma
+Dragão
+Escuridão
+Aço
 0-10 Horas
 10-20 Horas
 20-30 Horas
